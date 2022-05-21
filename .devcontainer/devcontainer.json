@@ -1,4 +1,4 @@
 {
-  "image": "enspyrco/ci-tools:stable",
+  "image": "cirrusci/flutter:stable",
   "forwardPorts": [3000]
 }
