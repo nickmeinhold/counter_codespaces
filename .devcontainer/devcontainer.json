@@ -1,4 +1,4 @@
 {
-  "image": "cirrusci/flutter:stable",
+  "image": "enspyrco/flutter-dev-env:stable",
   "forwardPorts": [3000]
 }
