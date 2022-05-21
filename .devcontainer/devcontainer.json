@@ -1,0 +1,4 @@
+{
+  "image": "enspyrco/ci-tools:stable",
+  "forwardPorts": [3000]
+}
